@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">We are Unity, a Software Group based out of the United Kingdom 🇬🇧</p>
+<p align="left">We're Unity Group, a team of Software Engineers based out of the United Kingdom 🇬🇧</p>
 
 ###
 
-<h2 align="left">About Unity</h2>
+<h2 align="left">About Unity Group</h2>
 
 ###
 
-<p align="left">✨ Creating software since 2022<br>📚 We’re currently working on Unity Hosting</p>
+<p align="left">✨ Creating software since 2022<br>📚 We’re currently working on Serenity Interactive</p>
 
 ###
 
